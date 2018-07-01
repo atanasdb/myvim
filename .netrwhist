@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/atanas.bakalov/telenor'
+let g:netrw_dirhist_2='/Users/atanas.bakalov/telenor/src'
+let g:netrw_dirhist_3='/Users/atanas.bakalov/telenor/src/header-injected'
+let g:netrw_dirhist_4='/Users/atanas.bakalov'
+let g:netrw_dirhist_5='/Users/atanas.bakalov/telenor'
+let g:netrw_dirhist_6='/Users/atanas.bakalov/telenor/src'
+let g:netrw_dirhist_7='/Users/atanas.bakalov/telenor/src/header-injected'
